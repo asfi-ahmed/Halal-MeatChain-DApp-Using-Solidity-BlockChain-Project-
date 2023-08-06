@@ -1,7 +1,7 @@
 
 # Halal-MeatChain-DApp-Using-Solidity-BlockChain-Project-
 
-This is a blockchain project (Educational purposes only) using Solidity, truffle, Ganache etc to Create a blockchain DApp. The DApp will track meat from slaughter house to the super market. This is an educational project only. You can take Ideas for your Solidity learning from this project.
+This is a blockchain project (Educational purposes only) using Solidity, truffle, Ganache etc to create a blockchain DApp. The DApp will track meat from slaughter house to the super market. This is an educational project only. You can take Ideas for your Solidity learning from this project.
 
 ## 1.0.Introduction: The world is moving so fast and our Muslim ummah is also spreading 
 very rapidly. But sadly, as the ummah is getting bigger and bigger day by day also in 
